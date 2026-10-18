@@ -1,0 +1,3 @@
+{ "name": "newtonite-browser-checks", "private": true, "type": "module",
+  "description": "Optional real-browser checks (screenshots, end-to-end guarantees, axe accessibility audit). Not needed to run the app.",
+  "dependencies": { "@sparticuz/chromium": "^153.0.0", "axe-core": "^4.14.0", "puppeteer-core": "^25.14.0" } }
